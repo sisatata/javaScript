@@ -1,0 +1,13 @@
+.some-class {
+    color: blue;
+    width: 100px;
+}
+
+.toggle {
+    color: violet;;
+    width: unset;
+}
+
+body{
+    background: red;
+}
